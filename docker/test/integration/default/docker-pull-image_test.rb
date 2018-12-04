@@ -1,6 +1,6 @@
 # # encoding: utf-8
 
-# Inspec test for recipe docker::dockerengine
+# Inspec test for recipe docker::docker-image-build
 
 # The Inspec reference, with examples and extensive documentation, can be
 # found at http://inspec.io/docs/reference/resources/
