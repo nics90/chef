@@ -1,10 +1,10 @@
 name 'docker'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Naveen Bhatta & Samridh Rakesh'
+maintainer_email 'bhatta.naveen@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures docker'
 long_description 'Installs/Configures docker'
-version '0.1.0'
+version '1.0.0'
 chef_version '>= 13.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
